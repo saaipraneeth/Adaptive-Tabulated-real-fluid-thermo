@@ -1,6 +1,7 @@
 # A tabulated Equation of state for Oxygen generated adaptively based on quadtree and user defined Error Tolerance. 
 
 ![Alt text](/plot.png?raw=true "Adaptive look-up table for Oxygen with 0.1% accuracy")
+![Alt text](/1.png)
 
 ### To use, 
 
